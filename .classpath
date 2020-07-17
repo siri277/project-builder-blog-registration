@@ -9,6 +9,5 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/User/OneDrive/Desktop/META-INF/maven/javax.servlet/javax.servlet-api/pom.properties"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
